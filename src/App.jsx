@@ -18,7 +18,7 @@ function App() {
     alert("Something's wrong")
   };
 
-  const API_key = "7fdce1ac59162e10f5778601ea44c4f8"
+  const API_key = "Use YOUR OWN API key here :)"
 
 
   // https://api.openweathermap.org/data/3.0/weather?q={city name}&appid={API key}
