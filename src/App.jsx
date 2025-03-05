@@ -49,6 +49,7 @@ function App() {
       ) : (
         <>
           <pre>Weather: {data.weather[0]?.main}</pre>
+          <div>Temp: {data.main.temp}</div>
           <div>Longitude: {data.coord?.lon}</div>
           <div>Latitude: {data.coord?.lat}</div>
 
